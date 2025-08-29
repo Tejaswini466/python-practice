@@ -1,3 +1,4 @@
 A growing collection of beginner-friendly Python programs, written as I learn and experiment. Each file is a standalone script exploring a specific concept—from loops to file handling.
 1. Celcius to farenheit temperature conversion
-2. 
+2. Calendar - shows the calendar of the entered year and month
+3. Quadratic equation
