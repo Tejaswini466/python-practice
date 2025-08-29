@@ -4,3 +4,4 @@ A growing collection of beginner-friendly Python programs, written as I learn an
 3. Quadratic equation
 4. Leap year
 5. Prime number
+6. Factorial of a number
