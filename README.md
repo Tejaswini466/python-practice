@@ -2,3 +2,5 @@ A growing collection of beginner-friendly Python programs, written as I learn an
 1. Celcius to farenheit temperature conversion
 2. Calendar - shows the calendar of the entered year and month
 3. Quadratic equation
+4. Leap year
+5. Prime number
