@@ -6,3 +6,5 @@ A growing collection of beginner-friendly Python programs, written as I learn an
 5. Prime number
 6. Factorial of a number
 7. Fibonacci sequence
+8. Armstrong number
+9. Least Common Multiple (LCM)
