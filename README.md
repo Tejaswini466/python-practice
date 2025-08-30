@@ -5,3 +5,4 @@ A growing collection of beginner-friendly Python programs, written as I learn an
 4. Leap year
 5. Prime number
 6. Factorial of a number
+7. Fibonacci sequence
