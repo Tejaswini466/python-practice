@@ -8,3 +8,4 @@ A growing collection of beginner-friendly Python programs, written as I learn an
 7. Fibonacci sequence
 8. Armstrong number
 9. Least Common Multiple (LCM)
+10. Highest Common factor(HCF)
