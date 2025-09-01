@@ -12,4 +12,5 @@ A growing collection of beginner-friendly Python programs, written as I learn an
 11. Simple calulator- performs basic arithmatic operations
 12. Fibonacci using recursion
 13. Body mass Index calculation
-14. 
+14. Natural logarithm of a number
+15. Sum of array elements
