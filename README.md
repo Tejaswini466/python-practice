@@ -14,3 +14,6 @@ A growing collection of beginner-friendly Python programs, written as I learn an
 13. Body mass Index calculation
 14. Natural logarithm of a number
 15. Sum of array elements
+16. Largest element in an array
+17. Array left rotation
+18. Array right rotation
