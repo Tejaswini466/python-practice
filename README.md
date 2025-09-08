@@ -18,3 +18,4 @@ A growing collection of beginner-friendly Python programs, written as I learn an
 17. Array left rotation
 18. Array right rotation
 19. Split and add- splits and array and add the part to the start
+20. Reverse of an array- using loops
