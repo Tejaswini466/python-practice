@@ -19,3 +19,4 @@ A growing collection of beginner-friendly Python programs, written as I learn an
 18. Array right rotation
 19. Split and add- splits and array and add the part to the start
 20. Reverse of an array- using loops
+21. Account - Deposit and withdrawal
