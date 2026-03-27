@@ -22,3 +22,5 @@ A growing collection of beginner-friendly Python programs, written as I learn an
 21. Account - Deposit and withdrawal
 22. Palindrome word
 23. Palindrome string
+24. Palindrome Number
+25. Perfect Number
