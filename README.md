@@ -24,3 +24,4 @@ A growing collection of beginner-friendly Python programs, written as I learn an
 23. Palindrome string
 24. Palindrome Number
 25. Perfect Number
+26. Plus One
