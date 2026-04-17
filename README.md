@@ -26,3 +26,4 @@ A growing collection of beginner-friendly Python programs, written as I learn an
 25. Perfect Number
 26. Plus One
 27. First Unique Character in a String
+28. Valid anagram
